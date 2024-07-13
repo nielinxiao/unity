@@ -37,6 +37,11 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+*.wav
+*.mat
+*.exr
+*.anim
+*.ttf
 *.user
 *.userprefs
 *.pidb
